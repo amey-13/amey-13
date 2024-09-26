@@ -9,7 +9,7 @@ I'm a passionate Data Scientist and Machine Learning Engineer currently pursuing
 - **Data Analysis**: Pandas, NumPy, SciPy, Matplotlib, Seaborn, Plotly, Tableau, Power BI
 - **Machine Learning**: Scikit-learn, NLTK, TensorFlow, Keras, OpenCV, Librosa
 - **Databases**: MySQL, MongoDB, PostgreSQL, SQLite3
-- **Tools and Frameworks**: Git, Flask, Django, Microsoft Office Suite
+- **Tools and Frameworks**: Git, Flask, Django, MLFlow, DVC, Dagshub, Microsoft Office Suite
 
 
 ## 💼 **Experience**
